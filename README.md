@@ -1,4 +1,4 @@
-## Hi there1 
+## Hi there!
 My name is Judit Perea Puigdomènech, and I'm a 26 y/o web developer based in Sabadell,Spain.
 (English/Spanish/Catalan)
 - 🔭 I’m currently working on personal projects to add to my portfolio. <br>
