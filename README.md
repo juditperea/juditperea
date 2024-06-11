@@ -8,7 +8,6 @@ My name is Judit Perea Puigdomènech, and I'm a 26 y/o web developer based in Sa
 - 📫 How to reach me: <br><br>
   Through LinkedIN: https://www.linkedin.com/in/judit-perea/ <br>
   Send me an email: juditperea97@gmail.com <br>
-- 😄 Pronouns: She/Her
 ## 🔍 Seeking New Opportunities in Software Development
 
 ### 👩‍💻 Software Developer with experience in Java, PHP, and JavaScript(React,Redux...) 
