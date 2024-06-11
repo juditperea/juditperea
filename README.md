@@ -14,12 +14,15 @@ My name is Judit Perea Puigdomènech, and I'm a 26 y/o web developer based in Sa
 ### 👩‍💻 Software Developer with experience in Java, PHP, and JavaScript(React,Redux...) 
 
 ### 🎓 Education:
+
 **Advanced Technical Degree in Web Development**, Institut Badia del Vallès
 
 ### 💼 Professional Experience:
+
 **Software Developer at Travelport** - 1 year (July 2023 - June 2024)
 
 ### 🔧 Technologies:
+
 - Java, SpringBoot
 - JavaScript (React, JQuery, Orion framework)
 - PHP, Laravel
@@ -38,5 +41,10 @@ My name is Judit Perea Puigdomènech, and I'm a 26 y/o web developer based in Sa
 and more...
 
 ### ✨ About Me:
-Passionate about technology and web development, I am constantly seeking to learn and improve my skills. I love working in teams and collaborating on challenging projects that allow me to grow professionally. Check out my repositories below to see some of the projects I've been working on! 
+
+Coding is not the only thing I do!
 I also like drawing, playing videogames, reading all kinds of literature, and watching anime.
+Passionate about technology and web development, I am constantly seeking to learn and improve my skills. 
+I love working in teams and collaborating on challenging projects that allow me to grow professionally.
+⭐ Check out my repositories below to see some of the projects I've been working on! ⭐
+
