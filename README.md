@@ -1,11 +1,11 @@
 ## Hi there1 
 My name is Judit Perea Puigdomènech, and I'm a 26 y/o web developer based in Sabadell,Spain.
 (English/Spanish/Catalan)
-- 🔭 I’m currently working on personal projects to add to my portfolio.
- Feel free to comment anything you want about them! I'm willing to learn from my mistakes.
- If you want to use my code, contact me before doing it please.
-- 🌱 I’m currently learning more programming languages and techniques, clean code ... I'm ALWAYS learning!
-- 📫 How to reach me: <br>
+- 🔭 I’m currently working on personal projects to add to my portfolio. <br>
+ Feel free to comment anything you want about them! I'm willing to learn from my mistakes. <br>
+ If you want to use my code, contact me before doing it please. <br>
+- 🌱 I’m currently learning more programming languages and techniques, clean code ... I'm ALWAYS learning! <br>
+- 📫 How to reach me: <br><br>
   Through LinkedIN: https://www.linkedin.com/in/judit-perea/ <br>
   Send me an email: juditperea97@gmail.com <br>
 - 😄 Pronouns: She/Her
@@ -41,7 +41,7 @@ My name is Judit Perea Puigdomènech, and I'm a 26 y/o web developer based in Sa
 and more...
 
 ### ✨ About Me:
-
+<br>
 Coding is not the only thing I do! <br>
 I also like drawing, playing videogames, reading all kinds of literature, and watching anime. <br>
 Passionate about technology and web development, I am constantly seeking to learn and improve my skills. 
