@@ -18,6 +18,14 @@ Passionate about technology and web development, I am constantly seeking to lear
 I love working in teams and collaborating on challenging projects that allow me to grow professionally. <br>
 ⭐ Check out my repositories to see some of the projects I've been working on ⭐
 
+<div style="text-align: center; background-color: #000; padding: 20px;">
+  <h3 style="color: white; margin: 0;">Memory Game</h3>
+  <a href="https://github.com/juditperea/memory-game" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/juditperea/memory-game/blob/1b35055ab81b178be8e278255ff6279a5aabf7c1/memory.png" alt="Memory Game" width="300">
+  </a>
+</div>
+
+https://github.com/juditperea/memory-game/blob/1b35055ab81b178be8e278255ff6279a5aabf7c1/memory.png
 ## 🔍 Seeking New Opportunities in Software Development
 
 ### 👩‍💻 Software Developer with experience in Java, PHP, and JavaScript (React, Redux...) 
