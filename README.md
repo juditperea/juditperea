@@ -20,6 +20,10 @@ I love working in teams and collaborating on challenging projects that allow me 
 
 <div style="text-align: center; background-color: #000; padding: 20px;">
   <h3 style="color: white; margin: 0;">Memory Game</h3>
+  Play the game here:
+  <a href="https://juditperea.github.io/memory-game/" target="_blank" style="text-decoration: none;">
+  </a>
+  Image source:
   <a href="https://github.com/juditperea/memory-game" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/juditperea/memory-game/blob/1b35055ab81b178be8e278255ff6279a5aabf7c1/memory.png" alt="Memory Game" width="300">
   </a>
