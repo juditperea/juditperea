@@ -24,7 +24,7 @@ I love working in teams and collaborating on challenging projects that allow me 
   <img src="https://github.com/juditperea/memory-game/blob/main/memory.png" alt="Memory Game" width="400" height="350"/>
 
   Play the game here: <br>
- https://github.com/juditperea/memory-game
+https://juditperea.github.io/memory-game/
 </div>
 
 ## 🔍 Seeking New Opportunities in Software Development
