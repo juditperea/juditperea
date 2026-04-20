@@ -2,20 +2,15 @@
 
 ### ✨ About Me:
 
-My name is Judit Perea Puigdomènech, and I'm a 26 y/o web developer based in Sabadell, Spain.
+My name is Judit Perea Puigdomènech, and I'm a 28 y/o web developer based in Sabadell, Spain.
 (English/Spanish/Catalan)
 - 🔭 I’m currently working on personal projects to add to my portfolio. <br>
   Feel free to comment anything you want about them! I'm willing to learn from my mistakes. <br>
   If you want to use my code, contact me before doing it please. <br>
-- 🌱 I’m currently learning more programming languages and techniques, clean code ... I'm ALWAYS learning <br>
 - 📫 How to reach me: <br><br>
   Through LinkedIn: [https://www.linkedin.com/in/judit-perea/](https://www.linkedin.com/in/judit-perea/) <br>
   Send me an email: juditperea97@gmail.com <br>
 
-Coding is not the only thing I do! <br>
-I also like drawing, playing videogames, reading all kinds of literature, and watching anime. <br>
-Passionate about technology and web development, I am constantly seeking to learn and improve my skills. 
-I love working in teams and collaborating on challenging projects that allow me to grow professionally. <br>
 ⭐ Check out my repositories to see some of the projects I've been working on ⭐
 
 <div style="text-align: center; background-color: #000; padding: 20px;">
@@ -27,7 +22,7 @@ I love working in teams and collaborating on challenging projects that allow me 
 https://juditperea.github.io/memory-game/
 </div>
 
-## 🔍 Seeking New Opportunities in Software Development
+## 🔍 Seeking New Opportunities 
 
 ### 👩‍💻 Software Developer with experience in Java, PHP, and JavaScript (React, Redux...) 
 
@@ -35,7 +30,11 @@ https://juditperea.github.io/memory-game/
 **Advanced Technical Degree in Web Development**, Institut Badia del Vallès
 
 ### 💼 Professional Experience:
+
+**Software Developer at Dribba** - 1 year (October 2024 - November 2025) <br>
+
 **Software Developer at Travelport** - 1 year (July 2023 - June 2024)
+
 
 ### 🔧 Technologies:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
