@@ -23,7 +23,7 @@ https://juditperea.github.io/memory-game/
 
  🎰 Slot Game
 
- <img src="https://github.com/juditperea/arcade-testing/blob/main/app/assets/slotgame.png" alt="Slot Game" width="400" height="350"/>
+ <img src="https://github.com/juditperea/arcade-testing/blob/main/assets/slotgame.png" alt="Slot Game" width="400" height="350"/>
 
 Play the game here:  
 https://juditperea.github.io/arcade-testing/
