@@ -21,9 +21,9 @@ My name is Judit Perea Puigdomènech, and I'm a 28 y/o web developer based in Sa
   Play the game here: <br>
 https://juditperea.github.io/memory-game/
 
-## 🎰 Slot Game
+ 🎰 Slot Game
 
-![Slot Game](https://juditperea.github.io/arcade-testing/slot.gif)
+ <img src="https://github.com/juditperea/arcade-testing/blob/main/app/assets/slot.mp4" alt="Memory Game" width="400" height="350"/>
 
 Play the game here:  
 https://juditperea.github.io/arcade-testing/
