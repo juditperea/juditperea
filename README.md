@@ -1,73 +1,136 @@
-## Hi there!
+# Hi, I'm Judit 👋
 
-### ✨ About Me:
+### Software Developer · Backend & Frontend
 
-My name is Judit Perea Puigdomènech, and I'm a 28 y/o web developer based in Sabadell, Spain.
-(English/Spanish/Catalan)
-- 🔭 I’m currently working on personal projects to add to my portfolio. <br>
-  Feel free to comment anything you want about them! I'm willing to learn from my mistakes. <br>
-  If you want to use my code, contact me before doing it please. <br>
-- 📫 How to reach me: <br><br>
-  Through LinkedIn: [https://www.linkedin.com/in/judit-perea/](https://www.linkedin.com/in/judit-perea/) <br>
-  Send me an email: juditperea97@gmail.com <br>
+I'm a software developer based in Sabadell, Spain, with professional experience building backend services and web applications.
 
-⭐ Check out my repositories to see some of the projects I've been working on ⭐
+My main professional stack is **Java / Spring Boot**, and I'm currently expanding my frontend portfolio with **React, TypeScript and modern UI development**.
 
-<div style="text-align: center; background-color: #000; padding: 20px;">
-  <h3 style="color: white; margin: 0;">Memory Game</h3>
+I enjoy building products from end to end, working with APIs, asynchronous systems and clean user interfaces.
 
-  <img src="https://github.com/juditperea/memory-game/blob/main/memory.png" alt="Memory Game" width="400" height="350"/>
+**Languages:** Spanish · Catalan · English
 
-  Play the game here: <br>
-https://juditperea.github.io/memory-game/
+[LinkedIn](https://www.linkedin.com/in/judit-perea/) ·
+[Email](mailto:juditperea97@gmail.com)
 
- 🎰 Slot Game
+---
 
- <img src="https://github.com/juditperea/arcade-testing/blob/main/assets/slotgame.png" alt="Slot Game" width="400" height="350"/>
+# ✦ Featured Project
 
-Play the game here:  
-https://juditperea.github.io/arcade-testing/
+## Moodboard
 
+A visual discovery and inspiration application built with **React, TypeScript and the Pexels API**.
 
+It started as a frontend portfolio project and evolved into an application focused on visual discovery, responsive layouts and reusable UI architecture.
 
-## 🔍 Seeking New Opportunities 
+<a href="https://YOUR-VERCEL-URL.vercel.app/">
+  <img
+    src="https://raw.githubusercontent.com/juditperea/moodboard/main/docs/moodboard-demo.gif"
+    alt="Moodboard demo"
+    width="100%"
+  />
+</a>
 
-### 👩‍💻 Software Developer with experience in Java, PHP, and JavaScript (React, Redux...) 
+### Highlights
 
-### 🎓 Education:
-**Advanced Technical Degree in Web Development**, Institut Badia del Vallès
+- Infinite visual discovery feed
+- Image search using the Pexels API
+- Grid / Masonry / Feed viewing modes
+- Persistent favorites
+- Personal favorites page
+- Image detail modal
+- Responsive image loading
+- Light / Dark themes
+- Responsive mobile navigation
+- Accessible keyboard and interaction states
+- Persistent UI preferences
 
-### 💼 Professional Experience:
+### Built with
 
-**Software Developer at Dribba** - 1 year (October 2024 - November 2025) <br>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-**Software Developer at Travelport** - 1 year (July 2023 - June 2024)
+**[Live Demo](https://YOUR-VERCEL-URL.vercel.app/) · [Repository](https://github.com/juditperea/moodboard)**
 
+---
 
-### 🔧 Technologies:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
- ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
- ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
- ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=restful&logoColor=white)
- <br>
-and more...
+# Other Projects
 
+### 🧠 Memory Game
 
+A small browser memory game built while learning frontend development.
 
+**[Play](https://juditperea.github.io/memory-game/) · [Repository](https://github.com/juditperea/memory-game)**
+
+<img
+  src="https://github.com/juditperea/memory-game/blob/main/memory.png?raw=true"
+  alt="Memory Game"
+  width="400"
+/>
+
+### 🎰 Slot Game
+
+A browser slot-machine project focused on frontend logic and interaction.
+
+**[Play](https://juditperea.github.io/arcade-testing/) · [Repository](https://github.com/juditperea/arcade-testing)**
+
+<img
+  src="https://github.com/juditperea/arcade-testing/blob/main/assets/slotgame.png?raw=true"
+  alt="Slot Game"
+  width="400"
+/>
+
+---
+
+# 👩‍💻 Experience
+
+### Software Development
+
+Professional experience working with backend services, REST APIs, asynchronous processing, testing and CI/CD.
+
+I have worked with technologies including:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+---
+
+# 🎓 Education
+
+**Advanced Technical Degree in Web Application Development (DAW)**  
+Institut Sabadell
+
+**Specialization in Video Game Development**
+
+---
+
+# ✦ Currently
+
+I'm currently focused on:
+
+- Building and improving portfolio projects
+- Deepening my React / TypeScript frontend skills
+- Working with AI-assisted development workflows
+- Exploring full-stack architectures combining modern frontend applications with Java / Spring Boot backends
+
+---
+
+### Open to new opportunities
+
+I'm interested in software development opportunities where I can continue growing in **frontend, backend or full-stack development**, particularly in teams that value clean code, collaboration and continuous learning.
